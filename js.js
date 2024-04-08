@@ -13,6 +13,7 @@ function compras() {
         precio *= 0.9;
     }
     alert("Precio final: " + precio);
+    alert("Solo para ENTORNOS DE DESARROLLO");
 }
 
 //compras();
